@@ -1,0 +1,4 @@
+# pg_stats extension
+comment = 'Customized statistics views'
+default_version = '1.0'
+relocatable = true
